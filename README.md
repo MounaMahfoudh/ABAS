@@ -26,13 +26,7 @@ mvn clean package
 
 RUN
 -----------
-change directory into target directory:
-
-```bash
-cd target
-```
-
-Run within the console using:
+Run within the Windows CMD using inside folder ABAS/target:
 
 ```bash
 java -jar spiel-0.0.1-SNAPSHOT.jar

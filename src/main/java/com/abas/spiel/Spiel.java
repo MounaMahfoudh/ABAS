@@ -78,9 +78,12 @@ public class Spiel implements CommandLineRunner {
 					}
 				}
 			}
+			
+			// Print Results before Quit
+			this.printResults(console, results);
 
 		} else {
-			System.out.println("There is no console available. This application should not be run inside your IDE.");
+			System.out.println("There is no console available. Refer to README.md for running this apploication.");
 		}
 	}
 
