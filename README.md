@@ -9,13 +9,13 @@ Build
 Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/ibm-messaging/kafka-connect-mq-source.git
+git clone https://github.com/MounaMahfoudh/ABAS.git
 ```
 
 Change directory into the demo directory:
 
 ```bash
-cd demo
+cd ABAS/demo
 ```
 
 Build the console game using Maven:
