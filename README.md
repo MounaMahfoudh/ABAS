@@ -12,10 +12,10 @@ Clone the repository with the following command:
 git clone https://github.com/MounaMahfoudh/ABAS.git
 ```
 
-Change directory into the demo directory:
+Change directory into the ABAS directory:
 
 ```bash
-cd ABAS/demo
+cd ABAS
 ```
 
 Build the console game using Maven:
@@ -26,7 +26,7 @@ mvn clean package
 
 RUN
 -----------
-Run within the Windows CMD using inside folder ABAS/target:
+Run within the Windows CMD inside folder ABAS/target using:
 
 ```bash
 java -jar spiel-0.0.1-SNAPSHOT.jar
